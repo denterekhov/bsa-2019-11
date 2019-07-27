@@ -1,0 +1,1 @@
+export const getRandomChance = () => Math.random() + 1;
