@@ -1,6 +1,4 @@
-# stage-2-es6-for-everyone
-
-## Instalation
+## Installation
 
 `npm install`
 
